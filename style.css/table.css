@@ -1,0 +1,41 @@
+.resp-table{
+    width: 100%;
+    display:table;
+}
+.resp-table-header{
+    display:table-header-group ;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: darkgray;
+
+}
+.table-header-cell{
+    display: table-cell;
+    padding: 10px;
+    text-align: justify;
+    border-bottom: 1px black;
+}
+.resp-table-body{
+    display: table-row-group;
+}
+.resp-table-row{
+    display: table-row;
+}
+.table-body-cell{
+    display:table-cell;
+    padding: 10px;
+}
+.resp-table-footer{
+    display: table-footer-group;
+    background-color: chocolate;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.table-footer-cell{
+    display: table-cell;
+    padding: 10px;
+    text-align: justify;
+}
+    
+    
